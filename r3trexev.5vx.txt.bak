@@ -1,0 +1,21 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   PC_FR/.classpath
+#	new file:   PC_FR/.project
+#	new file:   PC_FR/.settings/org.eclipse.jdt.core.prefs
+#	new file:   PC_FR/bin/com/kgd/pcfr/FindAndReplace.class
+#	new file:   PC_FR/bin/com/kgd/pcfr/MainForm$1.class
+#	new file:   PC_FR/bin/com/kgd/pcfr/MainForm.class
+#	new file:   PC_FR/bin/com/kgd/pcfr/Mould.class
+#	new file:   PC_FR/mould/50655-010-15RDX-01.TXT
+#	new file:   PC_FR/src/com/kgd/pcfr/FindAndReplace.java
+#	new file:   PC_FR/src/com/kgd/pcfr/MainForm.java
+#	new file:   PC_FR/src/com/kgd/pcfr/Mould.java
+#
+
